@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-<meta name="pageImpressionID" content="f5f759e8-b544-4883-ab45-df62439811c5"/>
+<meta name="pageImpressionID" content="b73e1fca-934f-4540-b859-e19ca6271d5a"/>
 <meta name="pageKey" content="uas-connect-login-internal">
 <meta name="analyticsURL" content="/analytics/noauthtracker"/>
 <link rel="apple-touch-icon-precomposed" href="https://static.licdn.com/scds/common/u/img/icon/apple-touch-icon.png">
@@ -24,7 +24,7 @@
 <meta name="IN-signin" content="http://www.linkedin.com/cws/login-popup"/>
 <meta name="IN-signin-secure" content="/cws/login-popup"/>
 <link rel="stylesheet" type="text/css" href="https://static.licdn.com/scds/concat/common/css?h=3bifs78lai5i0ndyj1ew7316e-7rju1q29wa1psxrhfmiak0ydy-7mxyksftlcjzimz2r05hd289r-4uu2pkz5u0jch61r2nhpyyrn8-dxl1g2k3wk6qpss8oq9lwul9c-7poavrvxlvh0irzkbnoyoginp-4om4nn3a2z730xs82d78xj3be-mea0xb6thaagfbcx9i1vg82z-ct4kfyj4tquup0bvqhttvymms-3pwwsn1udmwoy3iort8vfmygt-cfsam81o5sp3cxb7m0hs933c4-648sx8m8b6kj1srq42ztzy224-cd2mdz0dsnx2a8mr21rpzr4vp">
-<script src="https://static.licdn.com:443/scds/common/u/lib/fizzy/fz-1.3.6-min.js" type="text/javascript"></script><script type="text/javascript">fs.config({"failureRedirect":"http://www.linkedin.com/nhome/","uniEscape":true,"xhrHeaders":{"X-FS-Origin-Request":"/uas/connect/user-signin?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcws%2Fshare%3FisFramed%3Dfalse%26url%3Dhttp%253A%252F%252F128%252E199%252E252%252E138%252F2014%252F10%252Fbitcoin-dont-listen-broke-friends%252F%26token%3D","X-FS-Page-Id":"uas-connect-login"}});</script><script type="text/javascript" src="https://www.linkedin.com/uas/js/anonymoususerspace"></script>
+<script src="https://static.licdn.com:443/scds/common/u/lib/fizzy/fz-1.3.6-min.js" type="text/javascript"></script><script type="text/javascript">fs.config({"failureRedirect":"http://www.linkedin.com/nhome/","uniEscape":true,"xhrHeaders":{"X-FS-Origin-Request":"/uas/connect/user-signin?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcws%2Fshare%3FisFramed%3Dfalse%26url%3Dhttp%253A%252F%252F128%252E199%252E252%252E138%252F2014%252F08%252Fcrypti-development-roadmap%252F%26token%3D","X-FS-Page-Id":"uas-connect-login"}});</script><script type="text/javascript" src="/uas/js/anonymoususerspace"></script>
 <script type="text/javascript" src="https://static.licdn.com/scds/concat/common/js?h=704vg4uf8u24k6x9wklttlter-d0ibg4wftmmsyne01myd4j3c2-24db431rs3jcq8ygpbao2p4er-404k83hk9szcayv25mokbbrs7-ekrfgxjjabckg0gvr2ikhpbwa-bk5qn00zpwqbjfs55zt6sb6i-57op3gixhg18wymy2d9w2nfs0-dvjjucy8ssjng08mp3knhehjq-197b4sklpose0tbxjfedu9dgi-84gfmjh8s4qcq8j67y2qeyp9y-52vwijdk7s1mercwy5gje7xbq-91nl1r2cw4ytf8skxqkshtss4-dr3it9wq45w29j2a84m3bbbjm-1s2zh88q4t28kgbzj0ygmtz0t-o6bt67iysl4cescfidkhgh8w-9yapbb9c5ce3w0tjhqp8s1ben-be35lq69dqsbgl8h9t4bqpy08-avftajdh5oq2u6k2vaor3czdy-2r5gveucqe4lsolc3n0oljsn1-e9rsfv7b5gx0bk0tln31dx3sq-c8ha6zrgpgcni7poa5ctye7il-51dv6schthjydhvcv6rxvospp-b88qxy99s08xoes3weacd08uc-3bw8x2fd8pq6h9gc3gtrar7gw-ac8pg92mfnb2j836ntpvg1fsi-9wkskbn6s2q25rkbrnuwlqric-8vqvo1r7b0ag99we8a4gleai2-a5j90w6w30bxiqjlfqu3a04ao"></script>
 <link rel="canonical" href="https://www.linkedin.com/uas/connect/user-signin"/>
 <link rel="stylesheet" type="text/css" href="https://static.licdn.com/scds/concat/common/css?h=6lxdh8wmxvornf39dq8ck4stn">
@@ -38,8 +38,8 @@
 <h1 class="logo">LinkedIn</h1>
 <div id="nav-utility">
 <ul class="util">
-<li class="join"><span>Don't have an account?</span><a target="_blank" href="https://www.linkedin.com/reg/join" class="btn-secondary">Join Now</a></li>
-<li class="close window-close"><a class="window-close" href="index.html?share=linkedin#">Close</a></li>
+<li class="join"><span>Don't have an account?</span><a target="_blank" href="/reg/join" class="btn-secondary">Join Now</a></li>
+<li class="close window-close"><a class="window-close" href="#">Close</a></li>
 </ul>
 </div>
 </div>
@@ -49,7 +49,7 @@
 </div>
 <!-- frame busting -->
 <script type="text/javascript">if(top!=self){top.location.replace(document.location);alert('Press OK to Continue... (framed authorization page detected)');}</script>
-<form action="https://www.linkedin.com/uas/connect/user-signin-mutator" method="POST" name="connectLoginForm" novalidate="novalidate" class="standard-form" data-jsenabled="check">
+<form action="/uas/connect/user-signin-mutator" method="POST" name="connectLoginForm" novalidate="novalidate" class="standard-form" data-jsenabled="check">
 <input type="hidden" name="isJsEnabled" value="false"/>
 <ul>
 <li class="email-input">
@@ -64,7 +64,7 @@
 <div class="fieldgroup">
 <span class="error" id="session_password-connectLoginForm-error"></span>
 <input type="password" name="session_password" value="" id="session_password-connectLoginForm" autocorrect="off" autocapitalization="off" maxlength="400">
-<a href="https://www.linkedin.com/uas/request-password-reset" target="_blank" tracking="uas-resetpass">Forgot password?</a>
+<a href="/uas/request-password-reset" target="_blank" tracking="uas-resetpass">Forgot password?</a>
 </div>
 </li>
 </ul>
@@ -74,7 +74,7 @@
 <li><a href="javascript:void(0);" class="window-close btn-secondary">Cancel</a></li>
 </ul>
 </div>
-<input type="hidden" name="state" value="" id="state-connectLoginForm"><input type="hidden" name="session_redirect" value="https://www.linkedin.com/cws/share?isFramed=false&amp;url=http%3A%2F%2F128%2E199%2E252%2E138%2F2014%2F10%2Fbitcoin-dont-listen-broke-friends%2F&amp;token=" id="session_redirect-connectLoginForm"><input type="hidden" name="csrfToken" value="ajax:2800186116545856918" id="csrfToken-connectLoginForm"><input type="hidden" name="sourceAlias" value="0_4OoE-Tpeu_6vImQncQJ_l6yZ8WfnVmC2u_ww1ls6X8l" id="sourceAlias-connectLoginForm">
+<input type="hidden" name="state" value="" id="state-connectLoginForm"><input type="hidden" name="session_redirect" value="https://www.linkedin.com/cws/share?isFramed=false&amp;url=http%3A%2F%2F128%2E199%2E252%2E138%2F2014%2F08%2Fcrypti-development-roadmap%2F&amp;token=" id="session_redirect-connectLoginForm"><input type="hidden" name="csrfToken" value="ajax:5939070841595245808" id="csrfToken-connectLoginForm"><input type="hidden" name="sourceAlias" value="0_4OoE-Tpeu_6vImQncQJ_l6yZ8WfnVmC2u_ww1ls6X8l" id="sourceAlias-connectLoginForm">
 </form>
 </div>
 </div>
