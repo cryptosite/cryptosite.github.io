@@ -1,0 +1,13 @@
+/*
+ Theme Name:     Divi Child Theme
+ Theme URI:      http://www.elegantthemes.com/gallery/divi/
+ Description:    Divi Child Theme
+ Author:         Elegant Themes
+ Author URI:     http://www.elegantthemes.com
+ Template:       Divi
+ Version:        2.0.0
+*/
+ 
+@import url("../Divi/style.css");
+ 
+/* Use Jetpack for Custom CSS */
