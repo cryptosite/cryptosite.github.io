@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
     <title>Share a link on Twitter</title>
     <link rel="stylesheet" type="text/css" media="screen" href="https://abs.twimg.com/a/1415394243/css/tfw/intents_rosetta.bundle.css">
-      <meta name="native-url" content="twitter://post?text=CryptoFund%20Trading%20Strategy%20-%20How%20CF01%20will%20be%20traded%20http%3A%2F%2Fcryptomen.com%2F2014%2F10%2Fcryptofund-trading-strategy%2F%20via%20%40cryptomen">
+      <meta name="native-url" content="twitter://post?text=What%20is%20BlockNET%3F%20http%3A%2F%2Fcryptomen.com%2F2014%2F10%2Fwhat-is-blocknet%2F%20via%20%40cryptomen">
 
     <style type="text/css">
       html { display:none; }
@@ -44,9 +44,9 @@
   id="update-form"
   method="post">
   <div class="hd">
-      <input name="text" type="hidden" value="CryptoFund Trading Strategy - How CF01 will be traded">
+      <input name="text" type="hidden" value="What is BlockNET?">
+  <input name="url" type="hidden" value="http://cryptomen.com/2014/10/what-is-blocknet/">
   <input name="via" type="hidden" value="cryptomen">
-  <input name="url" type="hidden" value="http://cryptomen.com/2014/10/cryptofund-trading-strategy/">
 
       <input type="hidden" name="repost_after_login" value="/intent/tweet/update">
     <input type="hidden" name="authenticity_token" value="aa6ab9c844c8b375897f7b771828aea34e65e6b6">
@@ -60,7 +60,7 @@
       <textarea id="status" name="status" required autofocus
         aria-required="true" aria-describedby="post-error char-count"
         
-      >CryptoFund Trading Strategy - How CF01 will be traded http://cryptomen.com/2014/10/cryptofund-trading-strategy/ via @cryptomen</textarea>
+      >What is BlockNET? http://cryptomen.com/2014/10/what-is-blocknet/ via @cryptomen</textarea>
     </span>
   </div>
 
@@ -158,7 +158,7 @@
 
   using('tfw/intents/tweetbox', 'imports/jquery', function(Tweetbox, $) {
     $('#status').each(function() {
-      new Tweetbox(this, 0, 53);
+      new Tweetbox(this, 0, 17);
     });
   });
 
