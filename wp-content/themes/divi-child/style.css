@@ -9,5 +9,4 @@
 */
  
 @import url("../Divi/style.css");
- 
-/* Use Jetpack for Custom CSS */
+@import url("custom.css");
