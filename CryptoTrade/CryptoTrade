@@ -19,7 +19,7 @@
 	<link rel="pingback" href="index.html?p=98" />
 
 		<!--[if lt IE 9]>
-	<script src="http://128.199.252.138/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<script src="http://cryptomen.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
 	<![endif]-->
 
 	<script type="text/javascript">
@@ -314,7 +314,7 @@ trading board not found
 <script type='text/javascript' src='../wp-content/themes/Divi/js/jquery.magnific-popup.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var et_custom = {"ajaxurl":"http:\/\/128.199.252.138\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/128.199.252.138\/wp-content\/themes\/Divi\/images","et_load_nonce":"29a3f4425f","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill":"Fill","field":"field","invalid":"Invalid email","captcha":"Captcha"};
+var et_custom = {"ajaxurl":"http:\/\/cryptomen.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/cryptomen.com\/wp-content\/themes\/Divi\/images","et_load_nonce":"29a3f4425f","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill":"Fill","field":"field","invalid":"Invalid email","captcha":"Captcha"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='../wp-content/themes/Divi/js/custom.js'></script>

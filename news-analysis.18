@@ -19,7 +19,7 @@
 	<link rel="pingback" href="news-analysis.18" />
 
 		<!--[if lt IE 9]>
-	<script src="http://128.199.252.138/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<script src="http://cryptomen.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
 	<![endif]-->
 
 	<script type="text/javascript">
@@ -306,7 +306,7 @@
 				</div> <!-- .et_pb_image_container -->
 									<h2><a href="index.html?p=1217">Cryptomen&#8217;s Weekly Recommendation for September 8, 2014</a></h2>
 			
-			<p class="post-meta">by <a href="http://128.199.252.138/author/" title="Posts by " rel="author"></a> | Sep 9, 2014 | </p>*The picks recommended by Cryptomen are representing opening orders, the suggested price to enter the market. In the future we will implement position (Sold, Holding). Those orders are based on TA&#8217;s, volume, fundamentals, and trading council sentiment about the...		
+			<p class="post-meta">by <a href="http://cryptomen.com/author/" title="Posts by " rel="author"></a> | Sep 9, 2014 | </p>*The picks recommended by Cryptomen are representing opening orders, the suggested price to enter the market. In the future we will implement position (Sold, Holding). Those orders are based on TA&#8217;s, volume, fundamentals, and trading council sentiment about the...		
 		</article> <!-- .et_pb_post -->
 
 		<article id="post-1208" class="post-1208 post type-post status-publish format-standard has-post-thumbnail hentry category-bitcoin-2-0-metacoins category-events category-headlines tag-bitcoin tag-paypal et_pb_post">
@@ -411,7 +411,7 @@
 <script type='text/javascript' src='wp-content/themes/Divi/js/jquery.magnific-popup.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var et_custom = {"ajaxurl":"http:\/\/128.199.252.138\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/128.199.252.138\/wp-content\/themes\/Divi\/images","et_load_nonce":"29a3f4425f","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill":"Fill","field":"field","invalid":"Invalid email","captcha":"Captcha"};
+var et_custom = {"ajaxurl":"http:\/\/cryptomen.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/cryptomen.com\/wp-content\/themes\/Divi\/images","et_load_nonce":"29a3f4425f","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill":"Fill","field":"field","invalid":"Invalid email","captcha":"Captcha"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/themes/Divi/js/custom.js'></script>

@@ -103,7 +103,7 @@
 	
 		<header id="main-header" class="et_nav_text_color_light">
 			<div class="container clearfix">
-							<a href="http://128.199.252.138/about-cryptomen/about-cryptomen">
+							<a href="http://cryptomen.com/about-cryptomen/about-cryptomen">
 					<img src="http://cryptomen.com/wp-content/uploads/2014/08/logo-cryptomen.png" alt="Cryptomen.com" id="logo" />
 				</a>
 
@@ -123,7 +123,7 @@
 					
 										<div id="et_top_search">
 						<span id="et_search_icon"></span>
-						<form role="search" method="get" class="et-search-form et-hidden" action="http://128.199.252.138/about-cryptomen/about-cryptomen">
+						<form role="search" method="get" class="et-search-form et-hidden" action="http://cryptomen.com/about-cryptomen/about-cryptomen">
 						<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />						</form>
 					</div>
 					
