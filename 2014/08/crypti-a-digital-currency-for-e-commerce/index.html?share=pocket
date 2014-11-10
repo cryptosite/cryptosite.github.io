@@ -86,7 +86,7 @@ Modernizr.load({
         </div>
     </div>
     <input type="hidden" class="field-form-route" name="route" value="">
-    <input type="hidden" class="field-form-check" name="form_check" value="qeMupGvdZwd">
+    <input type="hidden" class="field-form-check" name="form_check" value="C3smuQkPLvU">
     <input type="hidden" class="field-form-src" name="src" value="">
     <div class="login-processing"></div>
     <input type="submit" tabindex="3" value="Log In" class="btn login-btn-email">
@@ -148,7 +148,7 @@ Modernizr.load({
 <script>
 if (typeof PocketAnalytics == 'object')
 {
-	PocketAnalytics.init(1415578251,'a4c686a1cb482db3d0136b58b6b1f3ec');
+	PocketAnalytics.init(1415578328,'42c4df5d6555d8a42be37e161ff20b63');
 }
 </script>
 <script>
