@@ -12,12 +12,25 @@
 	<atom:link href="http://cryptomen.com/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cryptomen.com</link>
 	<description>The Next Level of Crypto-currency Trading</description>
-	<lastBuildDate>Mon, 10 Nov 2014 03:57:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Nov 2014 15:42:34 +0000</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=151</generator>
+	<generator>http://wordpress.org/?v=283</generator>
 	<item>
+		<title>How Bitcoin Will Change the World</title>
+		<link>http://cryptomen.com/2014/11/how-bitcoin-will-change-the-world/</link>
+		<comments>http://cryptomen.com/2014/11/how-bitcoin-will-change-the-world/#comments</comments>
+		<pubDate>Tue, 11 Nov 2014 15:42:34 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Naff]]></dc:creator>
+				<category><![CDATA[Weekly Report]]></category>
+
+		<guid isPermaLink="false">http://cryptomen.com/?p=56597</guid>
+		<description><![CDATA[Bitcoin can change the world, but we have to answer the right questions first. ]]></description>
+		<wfw:commentRss>http://cryptomen.com/2014/11/how-bitcoin-will-change-the-world/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Mining Bitcoin with pencil and paper!</title>
 		<link>http://cryptomen.com/2014/11/mining-bitcoin-pencil-paper/</link>
 		<comments>http://cryptomen.com/2014/11/mining-bitcoin-pencil-paper/#comments</comments>
@@ -174,20 +187,6 @@
 		<guid isPermaLink="false">http://cryptomen.com/?p=15105</guid>
 		<description><![CDATA[If you don&#8217;t believe me or don&#8217;t get it, I  [&#8230;]]]></description>
 		<wfw:commentRss>http://cryptomen.com/2014/10/bitcoin-dont-listen-broke-friends/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Cryptomen Weekly Recommendations September 18th</title>
-		<link>http://cryptomen.com/2014/09/cryptomen-weekly-recommendations-september-18th/</link>
-		<comments>http://cryptomen.com/2014/09/cryptomen-weekly-recommendations-september-18th/#comments</comments>
-		<pubDate>Fri, 19 Sep 2014 01:05:17 +0000</pubDate>
-		<dc:creator><![CDATA[J.F. Hotte]]></dc:creator>
-				<category><![CDATA[Headlines]]></category>
-		<category><![CDATA[Weekly Report]]></category>
-
-		<guid isPermaLink="false">http://cryptomen.com/?p=1561</guid>
-		<description><![CDATA[Cryptomen believes in coins that have a purpose! This i [&#8230;]]]></description>
-		<wfw:commentRss>http://cryptomen.com/2014/09/cryptomen-weekly-recommendations-september-18th/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
