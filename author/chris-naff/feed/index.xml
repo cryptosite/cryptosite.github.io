@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cryptomen.com &#187; Chris Naff</title>
+	<atom:link href="http://cryptomen.com/author/chris-naff/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cryptomen.com</link>
+	<description>The Next Level of Crypto-currency Trading</description>
+	<lastBuildDate>Tue, 11 Nov 2014 15:42:34 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=283</generator>
+	<item>
+		<title>How Bitcoin Will Change the World</title>
+		<link>http://cryptomen.com/2014/11/how-bitcoin-will-change-the-world/</link>
+		<comments>http://cryptomen.com/2014/11/how-bitcoin-will-change-the-world/#comments</comments>
+		<pubDate>Tue, 11 Nov 2014 15:42:34 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Naff]]></dc:creator>
+				<category><![CDATA[Weekly Report]]></category>
+
+		<guid isPermaLink="false">http://cryptomen.com/?p=56597</guid>
+		<description><![CDATA[Bitcoin can change the world, but we have to answer the right questions first. ]]></description>
+		<wfw:commentRss>http://cryptomen.com/2014/11/how-bitcoin-will-change-the-world/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
