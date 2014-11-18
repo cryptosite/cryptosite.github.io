@@ -12,12 +12,26 @@
 	<atom:link href="http://cryptomen.com/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cryptomen.com</link>
 	<description>The Next Level of Crypto-currency Trading</description>
-	<lastBuildDate>Tue, 18 Nov 2014 01:51:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Nov 2014 03:26:32 +0000</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=397</generator>
 	<item>
+		<title>Welcome to the Bitcoin Embassy</title>
+		<link>http://cryptomen.com/2014/11/welcome-to-the-bitcoin-embassy/</link>
+		<comments>http://cryptomen.com/2014/11/welcome-to-the-bitcoin-embassy/#comments</comments>
+		<pubDate>Tue, 18 Nov 2014 03:26:32 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Naff]]></dc:creator>
+				<category><![CDATA[Headlines]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://cryptomen.com/?p=62169</guid>
+		<description><![CDATA[We recently found a new home in Montréal. The Bitcoin E [&#8230;]]]></description>
+		<wfw:commentRss>http://cryptomen.com/2014/11/welcome-to-the-bitcoin-embassy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>How Bitcoin Will Change the World</title>
 		<link>http://cryptomen.com/2014/11/how-bitcoin-will-change-the-world/</link>
 		<comments>http://cryptomen.com/2014/11/how-bitcoin-will-change-the-world/#comments</comments>
@@ -161,32 +175,6 @@
 		<guid isPermaLink="false">http://cryptomen.com/?p=29968</guid>
 		<description><![CDATA[&#160; We are really happy about the development of Cry [&#8230;]]]></description>
 		<wfw:commentRss>http://cryptomen.com/2014/10/cryptomen-moving-onward-upward/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Bitcoin, don&#8217;t listen to your broke friends!</title>
-		<link>http://cryptomen.com/2014/10/bitcoin-dont-listen-broke-friends/</link>
-		<comments>http://cryptomen.com/2014/10/bitcoin-dont-listen-broke-friends/#comments</comments>
-		<pubDate>Mon, 06 Oct 2014 06:53:15 +0000</pubDate>
-		<dc:creator><![CDATA[J.F. Hotte]]></dc:creator>
-				<category><![CDATA[Bitcoin 2.0 & Metacoins]]></category>
-		<category><![CDATA[Headlines]]></category>
-		<category><![CDATA[altcoin]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[Bitcoin price]]></category>
-		<category><![CDATA[cryptomen]]></category>
-		<category><![CDATA[Currency]]></category>
-		<category><![CDATA[forex]]></category>
-		<category><![CDATA[Intrinsic value]]></category>
-		<category><![CDATA[Investment]]></category>
-		<category><![CDATA[Monetary system]]></category>
-		<category><![CDATA[Speculation]]></category>
-		<category><![CDATA[Wall Street]]></category>
-		<category><![CDATA[World money]]></category>
-
-		<guid isPermaLink="false">http://cryptomen.com/?p=15105</guid>
-		<description><![CDATA[If you don&#8217;t believe me or don&#8217;t get it, I  [&#8230;]]]></description>
-		<wfw:commentRss>http://cryptomen.com/2014/10/bitcoin-dont-listen-broke-friends/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
