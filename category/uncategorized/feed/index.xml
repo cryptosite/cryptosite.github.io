@@ -12,12 +12,26 @@
 	<atom:link href="http://cryptomen.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>http://cryptomen.com</link>
 	<description>The Next Level of Crypto-currency Trading</description>
-	<lastBuildDate>Tue, 18 Nov 2014 01:51:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Nov 2014 03:26:32 +0000</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=397</generator>
 	<item>
+		<title>Welcome to the Bitcoin Embassy</title>
+		<link>http://cryptomen.com/2014/11/welcome-to-the-bitcoin-embassy/</link>
+		<comments>http://cryptomen.com/2014/11/welcome-to-the-bitcoin-embassy/#comments</comments>
+		<pubDate>Tue, 18 Nov 2014 03:26:32 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Naff]]></dc:creator>
+				<category><![CDATA[Headlines]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://cryptomen.com/?p=62169</guid>
+		<description><![CDATA[We recently found a new home in Montréal. The Bitcoin E [&#8230;]]]></description>
+		<wfw:commentRss>http://cryptomen.com/2014/11/welcome-to-the-bitcoin-embassy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Crypto for the Masses! – 2nd Official Teaser</title>
 		<link>http://cryptomen.com/2014/09/crypto-for-the-masses-2nd-official-teaser/</link>
 		<comments>http://cryptomen.com/2014/09/crypto-for-the-masses-2nd-official-teaser/#comments</comments>
